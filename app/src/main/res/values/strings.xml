@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Menu Search</string>
+    <string-array name="arrtinhthanh">
+        <item>An Giang</item>
+        <item>Bà Rịa – Vũng Tàu</item>
+        <item>Bắc Giang</item>
+        <item>Bến Tre</item>
+        <item>Cà Mau</item>
+        <item>Cao Bằng</item>
+        <item>Đắk Nông</item>
+        <item>Đắk Lắk</item>
+        <item>Hà Nam</item>
+        <item>Hà Nội</item>
+    </string-array>
+</resources>
